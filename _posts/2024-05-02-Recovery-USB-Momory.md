@@ -2,7 +2,7 @@
 layout: single
 title: Recovery USB Memory
 excerpt: "this is the archive to recovery usb memory"
-date:2024-05-02
+date: 2024-05-02
 classes: wide
 headers: 
  - teaser: /assets/images/usb.jpg
